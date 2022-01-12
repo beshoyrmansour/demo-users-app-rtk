@@ -1,6 +1,22 @@
+# DEMO USERS APP 
+This app was created as part of an introductory session for Redux toolkit features.
+## LIVE PREVIEW :
+ [http://demo-user-app-brm.surge.sh/](http://demo-user-app-brm.surge.sh/)
+
+## PRESENTATION
+[Presentation Link on MS-PowrPoint](https://1drv.ms/p/s!AicBbmpBmHMpbu8M39zGmt1Fxto?e=i1iMBa)
+## LIBRARIES
+### -   Redux toolkit - [learn more](https://redux-toolkit.js.org/)
+to provide main app state management functionality
+### -   React Bootstrap - [learn more](https://react-bootstrap.github.io/)
+to provide basic UI elements such as Layout cards lists ...etc
+### -   dummyAPI - [learn more](https://dummyapi.io/docs)
+to provide somedummy data to work with
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+## AVAILABLE SCRIPTS
 
 In the project directory, you can run:
 
